@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\mcken\OneDrive\Documents\ee201\lab4\exercise1\exercise1-F_Cu.gbr'.
+Plotted to 'C:\Users\mcken\OneDrive\Documents\ee201\lab4\exercise1\exercise1-B_Cu.gbr'.
+Plotted to 'C:\Users\mcken\OneDrive\Documents\ee201\lab4\exercise1\exercise1-F_Paste.gbr'.
+Plotted to 'C:\Users\mcken\OneDrive\Documents\ee201\lab4\exercise1\exercise1-B_Paste.gbr'.
+Plotted to 'C:\Users\mcken\OneDrive\Documents\ee201\lab4\exercise1\exercise1-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\mcken\OneDrive\Documents\ee201\lab4\exercise1\exercise1-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\mcken\OneDrive\Documents\ee201\lab4\exercise1\exercise1-F_Mask.gbr'.
+Plotted to 'C:\Users\mcken\OneDrive\Documents\ee201\lab4\exercise1\exercise1-B_Mask.gbr'.
+Plotted to 'C:\Users\mcken\OneDrive\Documents\ee201\lab4\exercise1\exercise1-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\mcken\OneDrive\Documents\ee201\lab4\exercise1\exercise1-job.gbrjob'.
+Info: Done.

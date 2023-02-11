@@ -1,0 +1,97 @@
+Info: Processing symbol 'C1:Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder'.
+Info: Processing symbol 'D1:LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder'.
+Info: Processing symbol 'D2:LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder'.
+Info: Processing symbol 'J1:TerminalBlock:TerminalBlock_bornier-2_P5.08mm'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'U1:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm'.
+Updated C1 properties.
+Add net /pin_2.
+Connected C1 pin 1 to /pin_2.
+Add net GND.
+Connected C1 pin 2 to GND.
+Added C2 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Changed REF** reference designator to C2.
+Changed C2 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 0.01 μF.
+Updated C2 symbol association from  to /2292eaad-ee3a-437f-ac08-d8e6ae850fc6.
+Updated C2 properties.
+Add net Net-(C2-Pad1).
+Connected C2 pin 1 to Net-(C2-Pad1).
+Connected C2 pin 2 to GND.
+Added D1 (footprint 'LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder').
+Changed REF** reference designator to D1.
+Changed D1 value from LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder to LED.
+Updated D1 symbol association from  to /9d3325de-ad7c-4748-a30d-56eb5d1a2dd3.
+Updated D1 properties.
+Add net Net-(D1-Pad1).
+Connected D1 pin 1 to Net-(D1-Pad1).
+Add net +9V.
+Connected D1 pin 2 to +9V.
+Added D2 (footprint 'LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder').
+Changed REF** reference designator to D2.
+Changed D2 value from LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder to LED.
+Updated D2 symbol association from  to /44a4b94c-67a0-4aaa-ad0a-454383f07f96.
+Updated D2 properties.
+Connected D2 pin 1 to GND.
+Add net Net-(D2-Pad2).
+Connected D2 pin 2 to Net-(D2-Pad2).
+Added J1 (footprint 'TerminalBlock:TerminalBlock_bornier-2_P5.08mm').
+Changed REF** reference designator to J1.
+Changed J1 value from TerminalBlock_bornier-2_P5.08mm to  .
+Updated J1 symbol association from  to /a74d232d-0503-436f-bac2-b4641894b590.
+Updated J1 properties.
+Connected J1 pin 1 to +9V.
+Connected J1 pin 2 to GND.
+Added R1 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Changed REF** reference designator to R1.
+Changed R1 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to 1k.
+Updated R1 symbol association from  to /2efd6d13-5b37-44e2-bae7-0bca703f29ff.
+Updated R1 properties.
+Connected R1 pin 1 to +9V.
+Add net /pin_7.
+Connected R1 pin 2 to /pin_7.
+Added C1 (footprint 'Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder').
+Added R2 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Changed REF** reference designator to R2.
+Changed R2 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to 10k.
+Updated R2 symbol association from  to /9a6a361e-52e3-434c-a202-8bde660126dc.
+Updated R2 properties.
+Connected R2 pin 1 to /pin_7.
+Connected R2 pin 2 to /pin_2.
+Changed REF** reference designator to C1.
+Added R3 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Changed REF** reference designator to R3.
+Changed R3 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to 1k.
+Updated R3 symbol association from  to /e1750872-31bc-4176-9f04-40cfd6b82a37.
+Updated R3 properties.
+Connected R3 pin 1 to Net-(D1-Pad1).
+Add net /pin_3.
+Connected R3 pin 2 to /pin_3.
+Changed C1 value from CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder to 10 μF.
+Added R4 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Changed REF** reference designator to R4.
+Changed R4 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to 1k.
+Updated R4 symbol association from  to /97620177-863d-4ae5-a984-eb40728bb5ef.
+Updated R4 properties.
+Connected R4 pin 1 to /pin_3.
+Connected R4 pin 2 to Net-(D2-Pad2).
+Updated C1 symbol association from  to /676bc4a1-217a-4b3c-9509-dc8cd1358ab4.
+Added U1 (footprint 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm').
+Changed REF** reference designator to U1.
+Changed U1 value from SOIC-8_3.9x4.9mm_P1.27mm to  .
+Updated U1 symbol association from  to /f74c401b-93b8-428d-a8a0-cd7dee14ecc0.
+Updated U1 properties.
+Connected U1 pin 1 to GND.
+Connected U1 pin 2 to /pin_2.
+Connected U1 pin 3 to /pin_3.
+Connected U1 pin 4 to +9V.
+Connected U1 pin 5 to Net-(C2-Pad1).
+Connected U1 pin 6 to /pin_2.
+Connected U1 pin 7 to /pin_7.
+Connected U1 pin 8 to +9V.
+
+
+Info: Total warnings: 0, errors: 0.
